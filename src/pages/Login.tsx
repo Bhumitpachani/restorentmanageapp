@@ -88,12 +88,12 @@ const Login = () => {
               {isLoading ? 'Signing in...' : 'Sign in'}
             </Button>
           </form>
-          <div className="mt-6 text-center text-sm text-muted-foreground">
+{/*           <div className="mt-6 text-center text-sm text-muted-foreground">
             <div className="space-y-1">
               <p>Demo credentials:</p>
               <p>Super Admin: admin / 123</p>
             </div>
-          </div>
+          </div> */}
         </CardContent>
       </Card>
     </div>
