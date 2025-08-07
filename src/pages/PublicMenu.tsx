@@ -284,7 +284,7 @@ const PublicMenu = () => {
                                         ${product.price}
                                       </span>
                                     </div>
-                                    <p className="text-xs text-muted-foreground leading-relaxed line-clamp-2">
+                                    <p className="text-xs text-muted-foreground leading-relaxed line-clamp-6">
                                       {product.description}
                                     </p>
                                   </div>
